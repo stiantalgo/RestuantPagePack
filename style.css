@@ -1,7 +1,7 @@
 :root {
     --borderRadius: 10px;
 
-    background: url(/src/bg.png);
+    background: url(./src/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
