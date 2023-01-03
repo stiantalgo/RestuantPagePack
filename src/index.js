@@ -22,7 +22,7 @@ navBtns.forEach(button => {
 });
 
 
-//renderHome();
+renderHome();
 
 function renderHome(){
     clearChildren();
