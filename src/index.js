@@ -1,3 +1,5 @@
+import './style.css';
+
 const cardBox = document.querySelector('.cardBox');
 const navBtns = document.querySelectorAll('.menuBtn');
 
